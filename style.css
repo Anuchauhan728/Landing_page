@@ -1,0 +1,33 @@
+body{
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.nav{
+    background-color: rgb(121, 198, 198);
+}
+.nav a{
+    font-size: 18px;
+}
+.nav-link{
+    color: white;
+}
+.nav-link:hover{
+    background-color:  rgb(55, 174, 174);
+}
+#display{
+    padding-top: 111px;
+}
+h1{
+    text-shadow: 2px 2px #8ab7db;
+    padding: 5px;
+    text-align: center;
+}
+h3{
+    color: rgb(219, 12, 160);
+    padding: 5px;
+    text-align: center;
+}
+p{
+    padding: 5px;
+    text-align: center;
+}
